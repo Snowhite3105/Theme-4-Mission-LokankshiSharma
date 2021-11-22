@@ -29,11 +29,10 @@ h2 {
     font-family:fantasy;
     font-weight: 300;
     color: blueviolet;
-
-p {
-    font-size: 20px;
-    font-family:cursive;
-    color: pink;
+    p{
+        font-family:cursive;
+        color: red
+    }
 }
 .line {
     height: 6px;
@@ -63,5 +62,3 @@ p {
 
 input
 {
-    background: grey;
-}
