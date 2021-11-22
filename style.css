@@ -22,10 +22,18 @@ h1 {
     font-size: 45px;
     font-family:fantasy;
     font-weight: 300;
+    color: white;
 }
+h2 {
+    font-size: 45px;
+    font-family:fantasy;
+    font-weight: 300;
+    color: blueviolet;
+
 p{
     font-size: 20px;
-    font-family: 
+    font-family:cursive;
+    color: pink;
 }
 .line {
     height: 6px;
